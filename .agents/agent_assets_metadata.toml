@@ -1,0 +1,14 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "rLwBopwqJJd_mQ5-eGa-J"
+uri = "file://artifacts/book-landing/public/images/hero-bg.png"
+type = "image"
+title = "hushed dawn light on temple"
+
+[[generated]]
+id = "JSfWf26P6FJRTo7eG_ahJ"
+uri = "file://artifacts/book-landing/public/images/waterfall.png"
+type = "image"
+title = "bali waterfall abstract geometry"
